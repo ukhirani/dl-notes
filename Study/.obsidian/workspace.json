@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "25d8920da56a95cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "93b5255c2619cb0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db3dd274075e356c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Style Transfer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Neural Style Transfer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9638a764310d08d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c3a891a1739dd41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45a7c87446234b52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cfb1d8f32f429eea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1453665daeb9ec6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5026054382324
+  },
+  "right": {
+    "id": "fe91bf1fa9532c20",
+    "type": "split",
+    "children": [
+      {
+        "id": "588a66978ef953b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a14cae40a634c87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "38d8fdacff3db0e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "53e3ac77f0135d82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e81645e6a5ef834e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "db3dd274075e356c",
+  "lastOpenFiles": [
+    "Introduction To Audio Data.md",
+    "Hugging Face Audio Course/Hugging Face Audio Course.md",
+    "Neural Style Transfer.md",
+    "Deep Learning/Link Between PCA and Autoencoders.md",
+    "Hugging Face Audio Course",
+    "Deep Learning/Eigen Value Decomposition.md",
+    "Deep Learning/Early Stopping.md",
+    "Deep Learning/Eigenvalues and Eigenvectors.md",
+    "Deep Learning/Ensemble Methods.md",
+    "Deep Learning/Deep Learning Practices.md",
+    "Deep Learning/Deep Learning.md",
+    "Deep Learning/DL History and Evolution.md",
+    "Deep Learning/Denoising Autoencoders.md",
+    "Deep Learning/Derivation of the activation function -- g'.md",
+    "Deep Learning/Contractive Autoencoders.md",
+    "Deep Learning/Contours Maps.md",
+    "Deep Learning/Create Images from Embeddings.md",
+    "Deep Learning/Sigmoid Neuron.md",
+    "Deep Learning/Momentum Based Gradient Descent.md",
+    "Deep Learning/Network of Perceptrons And It's Representation Power.md",
+    "Deep Learning/What about the Functions that are not linearly separable....md",
+    "Deep Learning/Perceptron.md",
+    "Deep Learning/Perceptron Learning Algorithm.md",
+    "Deep Learning/Proof of Convergence.md",
+    "Deep Learning/McCulloch Pitts (MP) Neuron + Thresholding Logic.md",
+    "Deep Learning/Deep Dream.md",
+    "Deep Learning/Deep Art.md",
+    "Assets/Pasted image 20250502210420.png",
+    "Assets/Pasted image 20250502224842.png",
+    "Assets/Pasted image 20250502233022.png",
+    "Assets/Pasted image 20250502233331.png",
+    "Assets/pbs0eeg2.png",
+    "Assets/Untitled 2.canvas",
+    "Assets/Recording 20250413163046.m4a",
+    "Assets/Pasted image 20250502233416.png",
+    "Assets/Recording 20250413162741.m4a",
+    "Assets/Recording 20250413163120.m4a",
+    "Assets/Untitled.canvas",
+    "Assets/Untitled 1.canvas",
+    "Assets/Pasted image 20250515121124.png",
+    "Assets/Pasted image 20250522120237.png",
+    "Assets/Pasted image 20250522120224.png",
+    "Assets/Pasted image 20250522120141.png",
+    "Dropout",
+    "Deep Learning/week6-7",
+    "Development",
+    "Umang/notes to myself",
+    "Umang",
+    "AI and LLM"
+  ]
+}

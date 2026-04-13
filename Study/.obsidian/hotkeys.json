@@ -1,0 +1,12 @@
+{
+  "editor:open-search-replace": [],
+  "better-export-pdf:export-current-file-to-pdf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}

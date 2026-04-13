@@ -1,0 +1,6 @@
+. [[The Paradox of Deep Learning]]
+1. [[Biological Neurons]] 
+2. [[Eigenvalues and Eigenvectors]]
+3. [[Regularization in Deep Neural Networks]]
+4. [[Deep Learning/Deep Learning Practices]]
+5. [[Deep Learning/Applications]]
