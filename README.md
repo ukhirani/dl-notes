@@ -14,4 +14,8 @@ To use this vault, just clone this repo and open this repo using Obsidian.
 3. Best of luck !
 <img width="1708" height="1353" alt="image" src="https://github.com/user-attachments/assets/a890ef50-2e44-41f2-9b82-a4e2a87f39ff" />
 
+4. Open the graph view for a better overview of the whole vault
+<img width="2559" height="1563" alt="image" src="https://github.com/user-attachments/assets/356586e5-a4d4-4306-957f-08e53d24544a" />
+
+
 
